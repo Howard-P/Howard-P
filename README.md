@@ -3,7 +3,7 @@
 
 I am new to this wouderland, keep leveling up! 🆙
 
-![<Howard-P>'s Stats](https://github-readme-stats.vercel.app/api?username=<Howard-P>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Howard-P's Stats](https://github-readme-stats.vercel.app/api?username=Howard-P&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
